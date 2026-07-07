@@ -189,4 +189,4 @@ Each upload is an HTTP GET to the Apps Script URL:
 
 ## License
 
-MIT — see [LICENSE](LICENSE) (or adapt to your preference).
+MIT — see [LICENSE](LICENSE).
